@@ -1,0 +1,5 @@
+*.pyc
+*.log
+tmp/
+model*.h5
+__pycache__/
